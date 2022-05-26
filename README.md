@@ -1,4 +1,4 @@
-# Desafio Big Data | Indra 
+# Desafio Big Data | Indra | Bash Shell Script + HDFS
 Desafio da turma de formação em BI/Big Data promovida pela INDRA e Uniesp-PB
 
 A intenção do desafio é de ingerir arquivos no HDFS através de comandos via bashc contidos na pasta Script, utilizando também conceitos iniciais de shell script.
